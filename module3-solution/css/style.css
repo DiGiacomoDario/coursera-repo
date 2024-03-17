@@ -1,1 +1,31 @@
+body {
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
 
+.navbar {
+    margin-bottom: 20px;
+}
+
+/* Personaliza el .container */
+.container {
+    max-width: 970px;
+}
+
+.container > hr {
+    margin: 30px 0;
+}
+
+/* Personaliza el texto del encabezado */
+.header h1 {
+    font-size: 40px;
+    line-height: 1;
+    letter-spacing: -1px;
+    color: #333;
+}
+
+/* Personaliza el alto de la sección */
+.tall-section {
+    height: 1000px;
+    background-color: #f5f5f5;
+}
